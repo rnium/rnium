@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Saiful Islam Rony</h1>
-<h3 align="center">I'm a passionate full-stack developer with hands-on experience of building impactful web applications. I'm a continuous learner, constantly seeking new technologies and best practices to improve my skillset. I love to explore the possibilities of turning ideas into digital products that makes a difference in the way how we work and interact with technologies.</h3>
+<h3 align="center">I'm a passionate full-stack developer, a continuous learner, constantly seeking new technologies and best practices to improve my skillset. I love to explore the possibilities of turning ideas into digital products that makes a difference in the way how we work and interact with technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnium&label=Profile%20views&color=0e75b6&style=flat" alt="rnium" /> </p>
 
