@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -44,4 +45,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rnium&theme=transparent" alt="rnium" />
 <!--   <img src="https://leetcard.jacoblin.cool/rnium?theme=nord&extension=heatmap" alt="rnium" /> -->
 </p>
-<img src="https://visitcount.itsvg.in/api?id=rnium&label=Profile%20Views&color=0&pretty=false" />
