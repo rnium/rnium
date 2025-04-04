@@ -41,7 +41,7 @@
 
 
 <p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnium&show_icons=true&locale=en&layout=compact&theme=transparent" alt="rnium" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rnium&theme=transparent" alt="rnium" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rnium&show_icons=true&locale=en&layout=compact&theme=transparent" alt="rnium" /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rnium&theme=transparent" alt="rnium" /> -->
 <!--   <img src="https://leetcard.jacoblin.cool/rnium?theme=nord&extension=heatmap" alt="rnium" /> -->
 </p>
